@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,700;1,400&display=swap');
+
+* {
+    font-family: 'Roboto Mono', monospace;
+}
+p{
+    color: rgb(99, 35, 219);
+    font-size: 25px;
+    font-weight: 800px;
+    font-family: 'Roboto Mono', monospace;
+}
+.blog{
+    background-color: brown;
+    border-radius: 30px;
+    border: 10px dotted pink;
+    margin: 40px;
+    padding: 40px;
+}
+.blog1{
+    color: rebeccapurple;
+    background-color: rosybrown;
+    border: 10px solid blue;
+    margin: 40px;
+    padding: 40px;
+}
